@@ -1,0 +1,40 @@
+.demographic-stat-component-container {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.demographic-stat-component-text {
+  top: 17px;
+  left: 71px;
+  position: absolute;
+}
+.demographic-stat-component-container1 {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.demographic-stat-component-image {
+  width: 64x;
+  height: 64px;
+  object-fit: cover;
+}
+.demographic-stat-component-root-class-name3 {
+  left: 0px;
+  bottom: -30px;
+  position: static;
+}
+.demographic-stat-component-root-class-name4 {
+  left: 0px;
+  bottom: -30px;
+  position: static;
+}
+.demographic-stat-component-root-class-name5 {
+  left: 0px;
+  bottom: -30px;
+  position: static;
+}
